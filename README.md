@@ -1,4 +1,4 @@
-# SocialNetwork Smart Contract
+# SocialNetwork
 
 This project is a complete example of a social network smart contract, covering basic social functionalities.
 
